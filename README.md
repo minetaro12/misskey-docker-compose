@@ -4,5 +4,5 @@
 
 ## 使い方   
 misskey.confをnginxディレクトリにコピー  
-misskey.conf内のexample.comは自分のドメイン名に直す  
+misskey.conf内のexample.tldは自分のドメイン名に直す  
 SSL証明書はnginx/sslの中にserver.crtとserver.keyとして入れる
